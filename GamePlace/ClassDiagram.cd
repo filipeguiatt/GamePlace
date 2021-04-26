@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GamePlace.Models.Jogos">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAABAIACAAAAAAAAAAEAAMAAAA=</HashCode>
+      <FileName>Models\Jogos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePlace.Models.Recibo">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAAQAAACAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Recibo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePlace.Models.UtilizadorRegistado">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQCAAAAAEAAAAAAAAAAAAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\UtilizadorRegistado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
